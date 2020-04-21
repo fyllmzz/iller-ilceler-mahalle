@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\bin\Debug\iller,ilçeler,mahalleler.exe.config
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\bin\Debug\iller,ilçeler,mahalleler.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\bin\Debug\iller,ilçeler,mahalleler.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller,ilçeler,mahalleler.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller_ilçeler_mahalleler.Form1.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller_ilçeler_mahalleler.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller,ilçeler,mahalleler.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller,ilçeler,mahalleler.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller,ilçeler,mahalleler.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\iller,ilçeler,mahalleler\iller,ilçeler,mahalleler\obj\Debug\iller,ilçeler,mahalleler.pdb
